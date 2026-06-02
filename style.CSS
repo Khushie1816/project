@@ -3,7 +3,6 @@ margin: 0;
 padding: 0;
 box-sizing: border-box;
 }
-
 .button{
     display: grid;
     grid-template-columns: repeat(4,1fr);
@@ -11,7 +10,7 @@ box-sizing: border-box;
     width: 200px;
     height: 20px;
     color: pink;
-    background-color: powderblue;
+   background-color: powderblue;
 }
 .btn{
     color: black;
